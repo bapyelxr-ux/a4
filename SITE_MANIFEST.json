@@ -1,0 +1,32 @@
+{
+  "site_name": "TwilightMenu",
+  "domain": "twilightmenu.com",
+  "category": "Dinner / Gastronomy",
+  "architecture": "100% Static HTML / CSS / Client JS",
+  "pages_total": 14,
+  "images_total": 28,
+  "unique_images": 28,
+  "total_files": 48,
+  "pages": {
+    "core": [
+      "index.html",
+      "about.html",
+      "contact.html",
+      "blog.html"
+    ],
+    "governance": [
+      "privacy-policy.html",
+      "terms-and-conditions.html",
+      "disclaimer.html",
+      "cookie-policy.html"
+    ],
+    "blogs": [
+      "blog/circadian-gastronomy-and-evening-digestive-chronobiology.html",
+      "blog/ambient-lux-and-kelvin-lighting-in-twilight-dining-psychology.html",
+      "blog/umami-synergy-and-nucleotide-layering-in-sunset-tasting-menus.html",
+      "blog/botanical-infusions-and-verjus-pairings-for-evening-courses.html",
+      "blog/maillard-reaction-kinetics-and-slow-braising-at-dusk.html",
+      "blog/tabletop-acoustics-and-commensal-flow-in-evening-hospitality.html"
+    ]
+  }
+}
